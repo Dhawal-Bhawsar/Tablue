@@ -1,0 +1,54 @@
+🏠 King Country House Sales - Tableau Dashboard
+This repository contains a Tableau workbook that visualizes and analyzes house sales data for King County. The dashboard is designed to offer insights into real estate trends, property features, pricing, and sales performance across various locations and time periods.
+
+📊 Project Overview
+The goal of this project is to:
+
+Explore real estate market trends in King County, WA.
+
+Understand the relationships between property features and their sale prices.
+
+Identify the most influential factors affecting house prices.
+
+Provide interactive visualizations for better decision-making.
+
+📁 Repository Contents
+KingCountryHouseSales.twb – The main Tableau Workbook with all visualizations and data dashboards.
+
+(Optional) data/ – If using a separate CSV or Excel file, include it here and mention it in the README.
+
+README.md – Project documentation.
+
+🔧 Tools & Technologies
+Tableau – Data visualization and dashboard design.
+
+Dataset – King County house sales dataset (usually includes features like bedrooms, bathrooms, sqft, location, etc.).
+
+📂 How to Use
+Open Tableau Desktop or Tableau Public.
+
+Load the file KingCountryHouseSales.twb.
+
+Explore the dashboard tabs for different visualizations:
+
+Price Distribution
+
+Correlation between Size and Price
+
+Geographic Trends (e.g., Map of Sales by Zip Code)
+
+Time-Series Sales Trends
+
+Use filters to interact with data (e.g., select year, zip code, number of bedrooms).
+
+📌 Key Insights (Example)
+Properties with waterfront views significantly increase in value.
+
+Sqft living area shows strong correlation with price.
+
+Seasonal trends observed in house sales.
+
+Certain zip codes have consistently higher average house prices.
+
+📄 License
+This project is for educational and analytical purposes. Feel free to fork, modify, or share with attribution.
