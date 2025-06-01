@@ -1,1 +1,60 @@
+# 🚴‍♀️ London Bike Rides Data Analysis
 
+This project explores and analyzes London's bike-sharing data using Python, Tableau, and Excel. It focuses on uncovering patterns in bike usage with respect to weather, time, and other external factors, enabling insights into sustainable urban mobility.
+
+---
+
+## 📊 Project Overview
+
+The London Bike Rides project performs exploratory data analysis (EDA) and visualization using a dataset of bike rentals. The goal is to:
+
+- Understand how bike demand varies by hour, season, temperature, and humidity.
+- Visualize key patterns using Tableau dashboards.
+- Provide insights to inform urban transportation policies.
+
+---
+
+## 📁 Files Included
+
+| File | Description |
+|------|-------------|
+| `london_merged.csv` | Main dataset containing hourly bike rental counts, weather info, and timestamps |
+| `london_bikes.ipynb` | Jupyter Notebook for data cleaning, EDA, and visualizations using Python |
+| `London Bike Rides.twb` | Tableau Workbook with interactive dashboards and charts |
+| `london_bikes_final.xlsx` | Final cleaned dataset and pivot analyses used for reporting |
+
+---
+
+## 🧠 Key Insights
+
+- **Peak Hours**: Highest usage occurs during commuting hours (7–9 AM and 5–7 PM).
+- **Weather Impact**: Temperature and humidity have a noticeable effect on ride counts.
+- **Seasonality**: Summer months see the highest average demand; winter the lowest.
+- **Weekday vs Weekend**: Workdays have different ride patterns compared to weekends.
+
+---
+
+## 📌 Technologies Used
+
+- **Python**: Pandas, Matplotlib, Seaborn
+- **Tableau**: Dashboarding and interactive charts
+- **Excel**: Data cleaning, transformation, and summary statistics
+
+---
+
+## 📊 Visualizations Preview
+
+> Tableau dashboards include:
+- Hourly Usage Heatmaps
+- Line charts for seasonal trends
+- Bar graphs for weather comparisons
+- Correlation plots for feature analysis
+
+---
+
+## 🧪 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Dhawal-Bhawsar/london-bike-rides-analysis.git
+   cd london-bike-rides-analysis
