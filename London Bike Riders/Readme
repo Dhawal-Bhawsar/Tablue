@@ -52,9 +52,12 @@ The London Bike Rides project performs exploratory data analysis (EDA) and visua
 
 ---
 
-## 🧪 How to Run
+## 🚀 How to View
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Dhawal-Bhawsar/london-bike-rides-analysis.git
-   cd london-bike-rides-analysis
+1. Download the `.twb` file.
+2. Open it in Tableau Desktop or upload it to [Tableau Public](https://public.tableau.com/).
+3. Interact with filters to explore visual insights.
+
+---
+
+## ⭐ Feel free to fork, clone, or star this repo if you found it helpful!
